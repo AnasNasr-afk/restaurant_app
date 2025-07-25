@@ -32,7 +32,7 @@ class _CartScreenState extends State<CartScreen> {
   Widget build(BuildContext context) {
 
     return Container(
-      height: MediaQuery.of(context).size.height * 0.85,
+      height: MediaQuery.of(context).size.height * 0.94,
       decoration: const BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.only(
