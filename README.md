@@ -10,7 +10,7 @@ A modern Flutter restaurant application that allows customers to browse menus, a
 
 ## 🎥 Demo Video
 
-[Insert your demo video link here]
+[[Demo video]](https://drive.google.com/file/d/1ZOG9XglGnjzWfcu6tqnHCD5sh-4U5S8E/view?usp=drivesdk)
 
 ## ✨ Features
 
