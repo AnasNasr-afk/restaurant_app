@@ -6,7 +6,7 @@ A modern Flutter restaurant application that allows customers to browse menus, a
 
 | Login Screen | Menu Screen | Cart Screen | Order Confirmation |
 |:---:|:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Menu](assets/screenshots/menu.png) | ![Cart](assets/screenshots/cart.png) | ![Order](assets/screenshots/order.png) |
+| ![Login](assets/screenshots/login.png) | ![Menu](assets/screenshots/menu.png) | ![Cart](assets/screenshots/cart.png) | ![Order](assets/screenshots/confirmation.png) |
 
 ## 🎥 Demo Video
 
