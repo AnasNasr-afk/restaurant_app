@@ -1,6 +1,5 @@
 import 'package:restaurant_app/core/constants/constants.dart';
 
-import '../../cart_screen/data/cart_model.dart';
 
 class MenuItem {
   final String name;
