@@ -2,15 +2,17 @@
 
 A modern Flutter restaurant application that allows customers to browse menus, add items to cart, and place orders with table number integration. The app provides a seamless dining experience where customers can order from their table and pay at the cashier.
 
+## 🎥 Demo Video
+
+[[Demo video]](https://drive.google.com/file/d/1T4Uf0mclL8rUJM8z9_cksnEE8a0W46ol/view?usp=sharing)
+
 ## 📱 Screenshots
 
 | Login Screen | Menu Screen | Cart Screen | Order Confirmation |
 |:---:|:---:|:---:|:---:|
 | ![Login](assets/screenshots/login.png) | ![Menu](assets/screenshots/menu.png) | ![Cart](assets/screenshots/cart.png) | ![Order](assets/screenshots/confirmation.png) |
 
-## 🎥 Demo Video
 
-[[Demo video]](https://drive.google.com/file/d/1ZOG9XglGnjzWfcu6tqnHCD5sh-4U5S8E/view?usp=drivesdk)
 
 ## ✨ Features
 
